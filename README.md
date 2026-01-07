@@ -1,2 +1,2 @@
-# SkinDetection
-皮膚檢測_課程用
+# skin-detection-yolo
+皮膚檢測系統-yoylo v8
